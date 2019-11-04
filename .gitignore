@@ -1,1 +1,6 @@
 /venv
+/.vscode
+/Abstract Labeling Tutorial/.ipynb_checkpoints
+/Abstract Labeling Tutorial/data
+/Abstract Labeling Tutorial/*.pkl
+/Abstract Labeling Tutorial/*.csv
