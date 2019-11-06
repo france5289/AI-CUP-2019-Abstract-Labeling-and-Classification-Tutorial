@@ -1,0 +1,3 @@
+- [ ] : lower case
+- [ ] : remove stop words
+- [ ] : training log 
