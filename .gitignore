@@ -5,3 +5,6 @@
 /Abstract Labeling Tutorial/*.pkl
 /Abstract Labeling Tutorial/*.csv
 /Abstract Labeling Tutorial/model/
+model
+/*.pkl
+/*.csv
